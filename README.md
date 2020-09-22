@@ -1,7 +1,8 @@
 # Hi there 👋
 
 I'm a young develloper currently stying Computer Science at Centrale Engineering School at Marseille France.
-Hopefully my Github please you, if you have any question you can contact me on my social networks (please favor LinkedIn for professional purposes).
+
+I hope my Github please you, if you have any question you can contact me on my social networks (please favor LinkedIn for professional purposes).
 See you around on the web !
 <!--
 **BaptisteMahe/BaptisteMahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
