@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baptistemahe" alt="baptistemahe" /></a> </p>
 
-- 🔭 I’m currently working on [0xp](https://github.com/BaptisteMahe/0xp)
+- 🔭 I’m currently working on [**0xp**](https://github.com/BaptisteMahe/0xp)
 
 - 🌱 I’m currently learning **Java 8+ and Data Science with Python**
 
