@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **baptiste.mahe@centrale-marseille.fr**
 
-- 📃 My resume if you are looking for a great Full Stack Developer : [English](https://baptistemahe.github.io/resume/resume.pdf) [French](https://baptistemahe.github.io/resume/curriculum.pdf)
+- 📃 My resume if you are looking for a great Full Stack Developer : [**English**](https://baptistemahe.github.io/resume/resume.pdf) or [**French**](https://baptistemahe.github.io/resume/curriculum.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
