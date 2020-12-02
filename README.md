@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**0xp**](https://github.com/BaptisteMahe/0xp)
 
-- 🌱 I’m currently learning **Web Development Data Science with Python**
+- 🌱 I’m currently learning **Web Development & Data Science with Python**
 
 - 📫 How to reach me **baptiste.mahe@centrale-marseille.fr**
 
