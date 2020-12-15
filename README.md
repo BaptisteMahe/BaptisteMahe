@@ -24,5 +24,3 @@
 [//]: <> (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baptistemahe&show_icons=true&locale=en&layout=compact" alt="baptistemahe" /></p>)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baptistemahe&show_icons=true&locale=en" alt="baptistemahe" /></p>
-
-<p>&nbsp;<img align="center" src="https://www.sololearn.com/Certificate/1082-9444018/pdf/" alt="baptistemahe" /></p>
